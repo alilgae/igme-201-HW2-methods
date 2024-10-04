@@ -1,5 +1,5 @@
 ﻿/*
- * Jin Yi & Kaiden Terrana
+ * Jin Yi (A) & Kaiden Terrana (B)
  * IGME 201
  * Due Oct 13, 2024
  */
@@ -9,7 +9,13 @@ namespace Methods
     {
         static void Main(string[] args)
         {
+            // Variables 
             
+            int kaidensFavoriteNumber;
+
+            // Initialize
+
+            kaidensFavoriteNumber = 36;
         }
     }
 }
