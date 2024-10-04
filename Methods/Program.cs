@@ -16,6 +16,24 @@ namespace Methods
             // Initialize
 
             kaidensFavoriteNumber = 36;
+
+            // Logic
+
+            Console.WriteLine("Kaiden's favorite number is " + kaidensFavoriteNumber);
+
+            // Methods
+            // Subtract two numbers
+            int Subtract(int a, int b)
+            {
+                return a - b;
+            }
+
+            // Call methods
+
+            /// uncomment these lines vvv when you put your variable in 
+            //int subtractedNumbers = Subtract(jinsFavoriteNumber, kaidensFavoriteNumber);
+            //Console.WriteLine("When we subtract our favorite numbers from each other we get: " + subtractedNumbers);
+
         }
     }
 }
