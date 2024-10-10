@@ -9,7 +9,13 @@ namespace Methods
 {
     internal class Program
     {
+
+        /// <summary>
         /// Partner A's add method 
+        /// </summary>
+        /// <param name="x"></param>
+        /// <param name="y"></param>
+        /// <returns></returns>
         static int Add(int x, int y)
         {
             {
