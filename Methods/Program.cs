@@ -13,9 +13,9 @@ namespace Methods
         /// <summary>
         /// Partner A's add method 
         /// </summary>
-        /// <param name="x"></param>
-        /// <param name="y"></param>
-        /// <returns></returns>
+        /// <param name="x">first integer</param>
+        /// <param name="y">second integer</param>
+        /// <returns>sum of x and y</returns>
         static int Add(int x, int y)
         {
             {
